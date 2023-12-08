@@ -1,0 +1,2 @@
+#  source .\env\Scripts\Activate.ps1
+#d:\projet_asset_pricing\env\scripts\python.exe -m pip install --upgrade pip
